@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Web+designer;Desktop+application++creater;Full+Stack+Developer"></a>
 </p>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 - 🔭 I’m currently working on **DevCanvas**
 
 - 🌱 I’m currently learning **computing of HND**
