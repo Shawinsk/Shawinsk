@@ -25,6 +25,7 @@ const Shawinsk = {
     location: "Sri Lanka 🇱🇰",
     education: "ESOFT METRO CAMPUS",
     roles: ["Full Stack Developer", "Web Designer", "application developer"],
+    Fun fact: "Call me as SK"
      lifePhilosophy: "Learning something new every day 🚀"
 };
 ```
@@ -50,3 +51,12 @@ const Shawinsk = {
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/thesk20046h"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="thesk20046h" /></a></p><br><br>
+
+
+<div align="center">
+  
+  
+  
+  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+</div>
+
